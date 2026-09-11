@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
