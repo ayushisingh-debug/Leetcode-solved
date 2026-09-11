@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
