@@ -6,9 +6,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0724-find-pivot-index) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0724-find-pivot-index) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
