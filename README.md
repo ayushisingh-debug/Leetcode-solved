@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0036-valid-sudoku) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
