@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0724-find-pivot-index) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
