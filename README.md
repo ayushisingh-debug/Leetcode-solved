@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0059-spiral-matrix-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0059-spiral-matrix-ii) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
