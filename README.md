@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/0018-4sum) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/ayushisingh-debug/Leetcode-solved/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
